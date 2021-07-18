@@ -28,4 +28,4 @@ global APS = {
 
 ---
 
-Thanks Thaiane! <img src="https://media.giphy.com/media/04b8NVK7cTY61NIiz7/giphy.gif" width="50"></h2>
+_Thanks Thaiane!_ <img src="https://media.giphy.com/media/04b8NVK7cTY61NIiz7/giphy.gif" width="50"></h2>
