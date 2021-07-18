@@ -12,7 +12,7 @@
 
 ```python
 global APS = {
-  'pronouns': "he" | "him",
+  'pronouns': ["he", "him"],
   'code': [Python, C++, C, HTML, CSS],
   'tools': [Scikit Learn, Mediapipe, OpenCV, Bootstrap, Docker],
   'architecture': ["microservices"],
