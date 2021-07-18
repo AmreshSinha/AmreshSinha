@@ -4,7 +4,7 @@
 </em></p>
 
 <!-- [![Twitter: AmreshSinha](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/) -->
-[![Linkedin: aps-amresh](https://img.shields.io/badge/-AmreshSinha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aps-amresh/)](https://www.linkedin.com/in/thaianebraga/)
+[![Linkedin: aps-amresh](https://img.shields.io/badge/-AmreshSinha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aps-amresh/)](https://www.linkedin.com/in/aps-amresh/)
 [![GitHub AmreshSinha](https://img.shields.io/github/followers/AmreshSinha?label=follow&style=social)](https://github.com/AmreshSinha)
 
 
