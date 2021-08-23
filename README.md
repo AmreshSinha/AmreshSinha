@@ -20,7 +20,7 @@ global APS = {
                         'Coordinator': "Coding Club IITG",
                         'Executive': "Techniche"
                       },
-  'challenge': "I am currently working on a Video Captioning Project (Deep Learning) and a Hand Gesture Project (Computer Vision)"
+  'challenge': "I am currently working on a Video Captioning Project (Deep Learning)"
 }
 ```
 
