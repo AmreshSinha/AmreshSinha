@@ -22,7 +22,7 @@ global APS = {
                         'Executive': "Techniche"
                       },
   'challenge': "I am currently working on a Video Captioning Project (Deep Learning)"
-  'what do I like other than coding?': "Cycling, Football, Mounain Trekking, Swimming"
+  'what do I like other than coding?': "Cycling, Football, Mountain Trekking, Swimming"
 }
 ```
 
