@@ -1,3 +1,4 @@
+[![Social banner for AmreshSinha](https://github.com/AmreshSinha/AmreshSinha/raw/testing/banner.gif)](https://apsweb.design)
 <h2> Hi, I'm Amresh Prasad Sinha! <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/source.gif" width="50"></h2>
 <img align='right' src="APS-OCTOCAT.png" width="230">
 <p><em>Student at <a href="http://iitg.ac.in">Indian Institute of Technology Guwahati</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Currently Working on <a href="https://drive.google.com/file/d/1YdZD1YWaXGnlfYd2C9YUN1cd8l_Z2PRW/view">Video Captioning Deep Learning Project</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -27,7 +28,16 @@ global APS = {
 ```
 
 ### <img src="https://media4.giphy.com/media/13n7XeyIXEIrbG/giphy.gif?cid=790b761172428a8004a4a243c287f20c3dd5459ce3d744bf&rid=giphy.gif&ct=g" width="50"> More more about me...
-<h3 align="left">Languages and Tools:</h3>
+
+
+### 📝 Blogs
+
+- Personal blog: https://aps09.medium.com/
+- Fixing Full Screen Issue on Manjaro (KDE) on VMWare: <a href="https://aps09.medium.com/fixing-full-screen-issue-on-manjaro-kde-cc2222fdc171">Here</a>
+- Hosting Flask and Node WebApp for free - Heroku Alternative: <a href="https://aps09.medium.com/hosting-flask-and-node-webapp-for-free-heroku-alternative-75671cdedc05">Here</a>
+
+
+<h3 align="left">🔧 Languages and Tools:</h3>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/premiere.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" alt="premierepro" width="40" height="40"/> </a></p>
 
 
