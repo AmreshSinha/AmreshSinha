@@ -10,12 +10,12 @@
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=AmreshSinha.AmreshSinha)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```python
 global APS = {
   'pronouns': 'he' | 'him',
-  'code': [Python, C++, C, HTML, CSS, Flutter],
+  'code': [Python, C++, C, HTML, CSS, JavaScript, Flutter],
   'tools': [Scikit Learn, Flask, Mediapipe, OpenCV, Bootstrap, Docker],
   'architecture': ["microservices"],
   'techCommunities': {
@@ -27,19 +27,25 @@ global APS = {
 }
 ```
 
-### <img src="https://media4.giphy.com/media/13n7XeyIXEIrbG/giphy.gif?cid=790b761172428a8004a4a243c287f20c3dd5459ce3d744bf&rid=giphy.gif&ct=g" width="50"> More more about me...
+## <img src="https://media4.giphy.com/media/13n7XeyIXEIrbG/giphy.gif?cid=790b761172428a8004a4a243c287f20c3dd5459ce3d744bf&rid=giphy.gif&ct=g" width="50"> More more about me...
 
 
-### 📝 Blogs
+### 📝&nbsp; `Blogs`
 
 - Personal blog: https://aps09.medium.com/
 - Fixing Full Screen Issue on Manjaro (KDE) on VMWare: <a href="https://aps09.medium.com/fixing-full-screen-issue-on-manjaro-kde-cc2222fdc171">Here</a>
 - Hosting Flask and Node WebApp for free - Heroku Alternative: <a href="https://aps09.medium.com/hosting-flask-and-node-webapp-for-free-heroku-alternative-75671cdedc05">Here</a>
 
 
-<h3 align="left">🔧 Languages and Tools:</h3>
+### 🔧&nbsp; `Languages and Tools`
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/premiere.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" alt="premierepro" width="40" height="40"/> </a></p>
 
+### 📊&nbsp; `My Contribution Graph`
+<p>
+<a href="https://github.com/AmreshSinha">
+ <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=AmreshSinha&custom_title=Amresh%20Sinha's%20Contribution%20Graph&theme=gruvbox&hide_border=true&area=true"/>
+</a>
+</p>
 
 <img src="https://media.giphy.com/media/xUOwGiewfQAm3tcIA8/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
