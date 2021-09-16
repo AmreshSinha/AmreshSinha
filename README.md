@@ -44,11 +44,9 @@ global APS = {
 <p>
 <a href="https://github.com/AmreshSinha">
  <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=AmreshSinha&custom_title=Amresh%20Sinha's%20Contribution%20Graph&theme=gruvbox&hide_border=true&area=true"/>
+  <img width=100%" src="https://github-readme-stats.vercel.app/api?username=AmreshSinha&show_icons=true&theme=gruvbox&hide_border=true&locale=en"/>
 </a>
+
 </p>
 
-<img src="https://media.giphy.com/media/xUOwGiewfQAm3tcIA8/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to know you more!</b> :)</em>
-
----
-
-#### _Thanks Thaiane!_ <img src="https://media.giphy.com/media/04b8NVK7cTY61NIiz7/giphy.gif" width="50"></h2>
+<img src="https://media.giphy.com/media/xUOwGiewfQAm3tcIA
