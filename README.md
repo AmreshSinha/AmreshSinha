@@ -7,7 +7,7 @@
 <!-- [![Twitter: AmreshSinha](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/) -->
 [![Linkedin: aps-amresh](https://img.shields.io/badge/-AmreshSinha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aps-amresh/)](https://www.linkedin.com/in/aps-amresh/)
 [![GitHub AmreshSinha](https://img.shields.io/github/followers/AmreshSinha?label=follow&style=social)](https://github.com/AmreshSinha)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=AmreshSinha.AmreshSinha)
+![Visitors](https://visitor-badge.deta.dev/badge?page_id=AmreshSinha.AmreshSinha)
 
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
