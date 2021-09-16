@@ -44,7 +44,7 @@ global APS = {
 <p>
 <a href="https://github.com/AmreshSinha">
  <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=AmreshSinha&custom_title=Amresh%20Sinha's%20Contribution%20Graph&theme=gruvbox&hide_border=true&area=true"/>
-  <img width=100%" src="https://github-readme-stats.vercel.app/api?username=AmreshSinha&show_icons=true&theme=gruvbox&hide_border=true&locale=en"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AmreshSinha&show_icons=true&theme=gruvbox&hide_border=true&locale=en"/>
 </a>
 
 </p>
