@@ -32,9 +32,8 @@ global APS = {
 
 ### 📝&nbsp; `Blogs`
 
-- Personal blog: https://aps09.medium.com/
-- Fixing Full Screen Issue on Manjaro (KDE) on VMWare: <a href="https://aps09.medium.com/fixing-full-screen-issue-on-manjaro-kde-cc2222fdc171">Here</a>
-- Hosting Flask and Node WebApp for free - Heroku Alternative: <a href="https://aps09.medium.com/hosting-flask-and-node-webapp-for-free-heroku-alternative-75671cdedc05">Here</a>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 ### 🔧&nbsp; `Languages and Tools`
