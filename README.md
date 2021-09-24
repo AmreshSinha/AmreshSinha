@@ -50,10 +50,10 @@ global APS = {
 
 </p>
 
-### `My Favorite Song`
+### 🎵&nbsp; `My Favorite Song`
 <p>
   <a href="https://open.spotify.com/track/05iALOptaNoV3EmXnxz1IJ?si=7e6f02effdbf4364" target="_blank">
-    <img src="https://spotify-cards.up.railway.app/api?id=05iALOptaNoV3EmXnxz1IJ&color=A0C3D2" />
+    <img width=50% src="https://spotify-cards.up.railway.app/api?id=05iALOptaNoV3EmXnxz1IJ&color=A0C3D2" />
   </a>
 </p>
 
