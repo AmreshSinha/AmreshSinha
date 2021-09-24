@@ -50,6 +50,13 @@ global APS = {
 
 </p>
 
+### `My Favorite Song`
+<p>
+  <a href="https://open.spotify.com/track/05iALOptaNoV3EmXnxz1IJ?si=7e6f02effdbf4364" target="_blank">
+    <img src="https://spotify-cards.up.railway.app/api?id=05iALOptaNoV3EmXnxz1IJ&color=A0C3D2" />
+  </a>
+</p>
+
 <img src="https://media.giphy.com/media/xUOwGiewfQAm3tcIA8/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to know you more!</b> :)</em>
 
 ---
