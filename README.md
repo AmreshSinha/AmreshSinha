@@ -1,4 +1,4 @@
-<!-- Banner made in Canva --> 
+<!-- Banner made with Canva --> 
 [![Social banner for AmreshSinha](https://github.com/AmreshSinha/AmreshSinha/raw/main/banner.gif)](https://apsweb.design)
 <h2> Hi, I'm Amresh Prasad Sinha! <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/source.gif" width="50"></h2>
 <img align='right' src="APS-OCTOCAT.png" width="230">
