@@ -16,7 +16,7 @@
 ```python
 global APS = {
   'pronouns': 'he' | 'him',
-  'code': [Python, C++, C, HTML, CSS, JavaScript, Flutter, Node\.js],
+  'code': [Python, C++, C, HTML, CSS, JavaScript, Flutter, Nodejs],
   'tools': [Scikit Learn, Flask, Mediapipe, OpenCV, Bootstrap, Docker, MongoDB, React.js],
   'architecture': ["microservices"],
   'techCommunities': {
