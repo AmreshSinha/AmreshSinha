@@ -2,7 +2,7 @@
 [![Social banner for AmreshSinha](https://github.com/AmreshSinha/AmreshSinha/raw/main/banner.gif)](https://apsweb.design)
 <h2> Hi, I'm Amresh Prasad Sinha! <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/source.gif" width="50"></h2>
 <img align='right' src="APS-OCTOCAT.png" width="230">
-<p><em>Student at <a href="http://iitg.ac.in">Indian Institute of Technology Guwahati</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Currently Working on <a href="https://drive.google.com/file/d/1YdZD1YWaXGnlfYd2C9YUN1cd8l_Z2PRW/view">Video Captioning Deep Learning Project</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Student at <a href="http://iitg.ac.in">Indian Institute of Technology Guwahati</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Currently Working on <a href="https://github.com/AmreshSinha/sshot">sshot - Web Screenshot API</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 <!-- [![Twitter: AmreshSinha](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/) -->
@@ -18,12 +18,12 @@
 global APS = {
   'pronouns': 'he' | 'him',
   'code': [Python, C++, C, HTML, CSS, JavaScript, Flutter, Nodejs],
-  'tools': [Scikit Learn, Flask, Mediapipe, OpenCV, Bootstrap, Docker, MongoDB, React],
+  'tools': [Scikit Learn, Flask, Mediapipe, OpenCV, Bootstrap, Docker, MongoDB, Reactjs, Nextjs],
   'architecture': ["microservices"],
   'techCommunities': {
                         'Coordinator': "Coding Club IITG",
                       },
-  'challenge': "I am currently working on a Video Captioning Project (Deep Learning)"
+  'challenge': "Looking for some challenges! I am always available on discord: '$ su Amresh#6575'"
   'what do I like other than coding?': "Cycling, Football, Mountain Trekking, Swimming"
 }
 ```
