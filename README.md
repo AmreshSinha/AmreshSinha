@@ -7,7 +7,7 @@ _(Seriously trying to not brag about my Arch Linux!... pss. `I use Arch Btw!`...
 </em></p>
 
 <!-- [![Twitter: AmreshSinha](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/) -->
-[![PayPal @theamresh](https://img.shields.io/badge/-@theamresh-00457C?style=flat-square&logo=Paypal&logoColor=white&link=https://paypal.me/theamresh/)](https://paypal.me/theamresh)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/amresh)
 [![Linkedin: aps-amresh](https://img.shields.io/badge/-AmreshSinha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aps-amresh/)](https://www.linkedin.com/in/aps-amresh/)
 [![GitHub AmreshSinha](https://img.shields.io/github/followers/AmreshSinha?label=follow&style=social)](https://github.com/AmreshSinha)
 ![Visitors](https://visitor-badge.deta.dev/badge?page_id=AmreshSinha.AmreshSinha)
