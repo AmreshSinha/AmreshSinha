@@ -35,9 +35,11 @@ global APS = {
 ### 📝&nbsp; `Blogs`
 
 <!-- BLOG-POST-LIST:START -->
+- [Revolt: The Open-Source alternative to Discord](https://fossian.com/revolt/)
+- [Misskey - A decentralized microblogging platform](https://fossian.com/misskey-a-decentralized-microblog/)
+- [Handshake - The future of the Internet](https://fossian.com/handshake-the-future-of-the-internet/)
 - [Hosting Flask and Node WebApp for free - Heroku Alternative](https://aps09.medium.com/hosting-flask-and-node-webapp-for-free-heroku-alternative-75671cdedc05?source=rss-ff968a17d48f------2)
 - [Fixing Full Screen Issue on Manjaro &lpar;KDE&rpar; on VMWare](https://aps09.medium.com/fixing-full-screen-issue-on-manjaro-kde-cc2222fdc171?source=rss-ff968a17d48f------2)
-- [How to Set Up OpenVPN Server| Beginners Tutorials](https://aps09.medium.com/how-to-set-up-openvpn-server-beginners-tutorials-2423b1c637ff?source=rss-ff968a17d48f------2)
 <!-- BLOG-POST-LIST:END -->
 
 
