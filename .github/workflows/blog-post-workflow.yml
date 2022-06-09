@@ -14,5 +14,5 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          max_post_count: "3"
-          feed_list: "https://aps09.medium.com/feed"
+          max_post_count: "5"
+          feed_list: "https://aps09.medium.com/feed,https://fossian.com/rss/"
