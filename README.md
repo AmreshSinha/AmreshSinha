@@ -1,5 +1,5 @@
 <!-- Banner --> 
-[![Social banner for AmreshSinha](https://github.com/AmreshSinha/AmreshSinha/raw/main/banner.gif)](https://apsweb.design)
+[![Social banner for AmreshSinha](https://github.com/AmreshSinha/AmreshSinha/raw/main/banner.gif)](https://amreshsinha.vercel.app)
 _(Seriously trying to not brag about my Arch Linux!... pss. `I use Arch Btw!`... oof it's hard)_
 <h2> Hi, I'm Amresh Prasad Sinha! <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/source.gif" width="50"></h2>
 <img align='right' src="APS-OCTOCAT.png" width="230">
