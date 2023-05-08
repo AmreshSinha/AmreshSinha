@@ -49,7 +49,7 @@ global APS = {
 ### 📊&nbsp; `My Contribution Graph`
 <p>
 <a href="https://github.com/AmreshSinha">
- <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=AmreshSinha&custom_title=Amresh%20Sinha's%20Contribution%20Graph&theme=gruvbox&hide_border=true&area=true"/>
+ <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=AmreshSinha&custom_title=Amresh%20Sinha%27s%20Contribution%20Graph&theme=gruvbox&hide_border=true&area=true"/>
 </a>
 
 </p>
@@ -57,11 +57,11 @@ global APS = {
 ### 🎵&nbsp; `My Favorite Song`
 <p>
   <a href="https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB?si=04832b7ea95e4120" target="_blank">
-    <img width=50% src="https://spotify-cards.x-axis.me/api?id=4h9wh7iOZ0GGn8QVp4RAOB" />
+    <img width=50% src="https://spotify-cards.fossian.com/api?id=4h9wh7iOZ0GGn8QVp4RAOB" />
   </a>
 </p>
 
-This image is dynamically generated. Click <a href="https://spotify-cards.up.railway.app" target="_blank">here</a> for more info!
+This image is dynamically generated. Click <a href="https://spotify-cards.fossian.com" target="_blank">here</a> for more info!
 
 
 <img src="https://media.giphy.com/media/xUOwGiewfQAm3tcIA8/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to know you more!</b> :)</em>
