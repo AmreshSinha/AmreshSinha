@@ -56,8 +56,8 @@ global APS = {
 
 ### 🎵&nbsp; `My Favorite Song`
 <p>
-  <a href="https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB?si=04832b7ea95e4120" target="_blank">
-    <img width=50% src="https://spotify-cards.fossian.com/api?id=4h9wh7iOZ0GGn8QVp4RAOB" />
+  <a href="https://open.spotify.com/track/7nhXN2H8h3i2PaHPXb6FO3" target="_blank">
+    <img width=50% src="https://spotify-cards.fossian.com/api?id=7nhXN2H8h3i2PaHPXb6FO3&color=B65F2E" />
   </a>
 </p>
 
