@@ -49,7 +49,7 @@ global APS = {
 ### 📊&nbsp; `My Contribution Graph`
 <p>
 <a href="https://github.com/AmreshSinha">
- <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=AmreshSinha&custom_title=Amresh%20Sinha%27s%20Contribution%20Graph&theme=gruvbox&hide_border=true&area=true"/>
+ <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AmreshSinha&custom_title=Amresh%20Sinha%27s%20Contribution%20Graph&theme=gruvbox&hide_border=true&area=true"/>
 </a>
 
 </p>
