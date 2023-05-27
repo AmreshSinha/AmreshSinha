@@ -25,7 +25,7 @@ global APS = {
                         'Open Source Head': "Coding Club IITG",
                       },
   'challenge': "Looking for some challenges! I am always available on discord: '$ su Amresh#6575'"
-  'what do I like other than coding?': "Cycling, Football, Mountain Trekking, Swimming"
+  'what do I like other than coding?': "Cycling, Football, Trekking, Swimming"
 }
 ```
 
