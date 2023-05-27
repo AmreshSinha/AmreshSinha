@@ -18,11 +18,11 @@ _(Seriously trying to not brag about my Arch Linux!... pss. `I use Arch Btw!`...
 ```python
 global APS = {
   'pronouns': 'he' | 'him',
-  'code': [Python, C++, C, HTML, CSS, JavaScript, Flutter, Nodejs],
-  'tools': [Scikit Learn, Flask, Mediapipe, OpenCV, Bootstrap, Docker, MongoDB, Reactjs, Nextjs],
+  'code': [Python, C++, C, HTML, CSS, JavaScript, Nodejs],
+  'tools': [Reactjs, Nextjs, Flask, MongoDB, OpenCV, Bootstrap, Docker, MongoDB],
   'architecture': ["microservices"],
   'techCommunities': {
-                        'Coordinator': "Coding Club IITG",
+                        'Open Source Head': "Coding Club IITG",
                       },
   'challenge': "Looking for some challenges! I am always available on discord: '$ su Amresh#6575'"
   'what do I like other than coding?': "Cycling, Football, Mountain Trekking, Swimming"
