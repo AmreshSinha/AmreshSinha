@@ -10,7 +10,7 @@ _(Seriously trying to not brag about my Arch Linux!... pss. `I use Arch Btw!`...
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/amresh)
 [![Linkedin: aps-amresh](https://img.shields.io/badge/-AmreshSinha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aps-amresh/)](https://www.linkedin.com/in/aps-amresh/)
 [![GitHub AmreshSinha](https://img.shields.io/github/followers/AmreshSinha?label=follow&style=social)](https://github.com/AmreshSinha)
-[![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FAmreshSinha%2FAmreshSinha.json&label=visits&color=%2345CC11)](http://hits.dwyl.com/AmreshSinha/AmreshSinha)
+[![HitCount](https://hits.dwyl.com/AmreshSinha/AmreshSinha.svg?style=flat-square)](http://hits.dwyl.com/AmreshSinha/AmreshSinha)
 
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
