@@ -18,8 +18,8 @@ _(Seriously trying to not brag about my Arch Linux!... pss. `I use Arch Btw!`...
 ```python
 global APS = {
   'pronouns': 'he' | 'him',
-  'code': [Python, C++, C, HTML, CSS, JavaScript, Nodejs],
-  'tools': [Reactjs, Nextjs, React Native, Expo, Storybook, Flask, MongoDB, Docker],
+  'code': [JavaScript, Python, C++, C, HTML, CSS],
+  'tools': [Nodejs, Reactjs, Nextjs, React Native, Expo, Storybook, Flask, MongoDB, Docker],
   'architecture': ["monolithic"],
   'techCommunities': {
                         'Open Source Head': "Coding Club IITG",
