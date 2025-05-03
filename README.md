@@ -38,6 +38,8 @@ global APS = {
 - [Docker-in-Docker: Building Images inside a Running Container](https://fossian.com/docker-in-docker-building-images-inside-a-running-container/)
 - [Self-Host Ghost Blog with Mysql and Traefik](https://fossian.com/self-host-ghost-blog-mysql-traefik/)
 - [Simplify your deployment with Traefik - A comprehensive walk-through](https://fossian.com/simplify-deployment-traefik-walk-through/)
+- [Hosting Flask and Node WebApp for free - Heroku Alternative](https://aps09.medium.com/hosting-flask-and-node-webapp-for-free-heroku-alternative-75671cdedc05?source=rss-ff968a17d48f------2)
+- [Fixing Full Screen Issue on Manjaro &lpar;KDE&rpar; on VMWare](https://aps09.medium.com/fixing-full-screen-issue-on-manjaro-kde-cc2222fdc171?source=rss-ff968a17d48f------2)
 <!-- BLOG-POST-LIST:END -->
 
 
