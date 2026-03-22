@@ -9,7 +9,7 @@ _(Seriously trying to not brag about my Arch Linux!... pss. `I use Arch Btw!`...
 
 <!-- [![Twitter: AmreshSinha](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/) -->
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/amresh)
-[![Linkedin: aps-amresh](https://img.shields.io/badge/-AmreshSinha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aps-amresh/)](https://www.linkedin.com/in/aps-amresh/)
+[![Linkedin: aps-amresh](https://img.shields.io/badge/-AmreshSinha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aps-amresh/)](https://www.linkedin.com/in/amresh-sinha/)
 [![GitHub AmreshSinha](https://img.shields.io/github/followers/AmreshSinha?label=follow&style=social)](https://github.com/AmreshSinha)
 [![HitCount](https://hits.dwyl.com/AmreshSinha/AmreshSinha.svg?style=flat-square)](http://hits.dwyl.com/AmreshSinha/AmreshSinha)
 
@@ -19,14 +19,11 @@ _(Seriously trying to not brag about my Arch Linux!... pss. `I use Arch Btw!`...
 ```python
 global APS = {
   'pronouns': 'he' | 'him',
-  'code': [JavaScript, Python, C++],
-  'tools': [HTML, CSS, Nodejs, Reactjs, Nextjs, React Native, Expo, Storybook, Flask, MongoDB, Docker],
-  'architecture': ["monolithic"],
-  'techCommunities': {
-                        'Open Source Head': "Coding Club IITG",
-                      },
-  'challenge': "Looking for some challenges! I am always available on discord: '$ su Amresh#6575'"
-  'what do I like other than coding?': "Cycling, Football, Trekking, Swimming"
+  'code': [Python, JavaScript, C++],
+  'tools': [HTML, CSS, Django, FastAPI, Nodejs, Reactjs, Nextjs, React Native, Expo, Storybook, Flask, MongoDB, Docker],
+  'architecture': ["monolithic", "multi-repo"],
+  'challenge': "Looking for some challenges! I am always available on Linkedin: https://www.linkedin.com/in/amresh-sinha/"
+  'what do I like other than tech?': "Cycling, Football, Trekking, Swimming, Travelling"
 }
 ```
 
