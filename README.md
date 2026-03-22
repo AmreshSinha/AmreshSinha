@@ -20,7 +20,7 @@ _(Seriously trying to not brag about my Arch Linux!... pss. `I use Arch Btw!`...
 global APS = {
   'pronouns': 'he' | 'him',
   'code': [Python, JavaScript, C++],
-  'tools': [HTML, CSS, Django, FastAPI, Nodejs, Reactjs, Nextjs, React Native, Expo, Storybook, Flask, MongoDB, Docker],
+  'tools': [HTML, CSS, Django, FastAPI, Nodejs, Reactjs, Nextjs, React Native, Expo, Storybook, Flask, Postgres, MongoDB, Docker],
   'architecture': ["monolithic", "multi-repo"],
   'challenge': "Looking for some challenges! I am always available on Linkedin: https://www.linkedin.com/in/amresh-sinha/"
   'what do I like other than tech?': "Cycling, Football, Trekking, Swimming, Travelling"
